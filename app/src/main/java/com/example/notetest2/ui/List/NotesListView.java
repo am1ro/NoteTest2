@@ -1,4 +1,4 @@
-package com.example.notetest2.ui;
+package com.example.notetest2.ui.List;
 
 import com.example.notetest2.domain.Note;
 
